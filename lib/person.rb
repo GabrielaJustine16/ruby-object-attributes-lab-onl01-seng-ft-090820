@@ -9,11 +9,11 @@ class Person
   end 
   
   def job =(my_job)
-    @breed = my_job
+    @job = my_job
   end
 
-  def breed
-    @breed
+  def job
+    @job
   end 
   
   
